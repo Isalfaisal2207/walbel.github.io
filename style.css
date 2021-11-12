@@ -1,0 +1,44 @@
+/** @format */
+
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #e2edff;
+}
+.logo {
+  border-radius: 30px;
+}
+
+#Product {
+  background-color: #e2edff;
+}
+
+#Product {
+  padding-top: 3.5rem;
+}
+#contact {
+  margin-top: -10px;
+}
+#about {
+  padding-top: 3.5rem;
+}
+#footer {
+  background-color: #0d6efd;
+  margin-bottom: -30px;
+  margin-top: 20px;
+}
+.wa {
+  border-radius: 10px;
+  margin: 3px;
+}
+.medsos {
+  color: white;
+}
+hr {
+  color: rgb(0, 60, 255);
+  margin-top: -3px;
+}
+
+.colom {
+  margin-top: 3px;
+  color: rgb(0, 2, 105);
+}
